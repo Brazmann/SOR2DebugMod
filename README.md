@@ -7,7 +7,11 @@ This is a mod for the demo of Streets of Rogue 2 which enables debug controls an
 4. Hit play and everything should work!
 ## Known Debug Controls
 C = Short range teleport to mouse position
+
 Space = Teleports to region on the map below cursor when the menu is open.
+
 f1-f8 = Give yourself money!
+
 G = Stop time.
+
 And there's likely more undiscovered still!
